@@ -45,8 +45,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://ubdanam.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -73,7 +71,6 @@ Install this project with:
   cd Hello-Microverse
   npm install
 ```
---->
 
 ### Usage
 
@@ -109,15 +106,11 @@ Feel free to check the <a href="https://github.com/UbdaNam/Hello-Microverse/issu
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project leave a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank microverse for there help in seting up linter for these project
 
